@@ -1,0 +1,29 @@
+.logo
+{
+    height: 100px;
+    border-radius: 50px;
+   
+    
+}
+
+.headerlogo
+{
+    display: flex;
+    gap: 35px;
+    float: left;
+    
+    
+}
+.title{
+    color: brown;
+    text-align: center;
+    margin-right:1100px;
+    padding: 12px;
+   
+}
+
+.menubar{
+    display: flex;
+    gap: 30px;
+    
+}

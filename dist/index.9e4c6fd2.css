@@ -1,0 +1,23 @@
+.logo {
+  border-radius: 50px;
+  height: 100px;
+}
+
+.headerlogo {
+  float: left;
+  gap: 35px;
+  display: flex;
+}
+
+.title {
+  color: brown;
+  text-align: center;
+  margin-right: 1100px;
+  padding: 12px;
+}
+
+.menubar {
+  gap: 30px;
+  display: flex;
+}
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
